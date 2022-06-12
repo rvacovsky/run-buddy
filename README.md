@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy
 
 ## Purpose
 A website that offers fitness training services. Includes signup form to schedule a consult with a trainer.
